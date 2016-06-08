@@ -1,0 +1,25 @@
+{
+  "name": "spider",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "~2.53.0",
+    "cheerio": "~0.18.0"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.3.x"
+  },
+  "devDependencies": {
+    "sinalogin": "0.0.3",
+    "mongodb": "^2.1.21",
+    "express": "^4.13.4",
+    "debug": "^2.2.0"
+  }
+}
